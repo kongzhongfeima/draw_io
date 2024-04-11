@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T01:31:42.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="tfbeFVQFF7nm3Re33tOv" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T01:37:23.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="U67hfeWcB1JJr-jqJzuI" version="24.2.3" type="github">
   <diagram name="Page-1" id="qqFg_T4T3m1fCk27V4T5">
     <mxGraphModel dx="1026" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             <mxRectangle width="125" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-7">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-10" value="~200MHz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-7">
           <mxGeometry x="190" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -61,7 +61,7 @@
             <mxRectangle width="65" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-12">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-14" value="4MHz~54MHz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-12">
           <mxGeometry x="65" width="125" height="50" as="geometry">
             <mxRectangle width="125" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -89,7 +89,7 @@
             <mxRectangle width="125" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-17">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-20" value="2.31V" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-17">
           <mxGeometry x="190" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             <mxRectangle width="125" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-22">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-25" value="0.99V" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-22">
           <mxGeometry x="190" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -130,12 +130,12 @@
             <mxRectangle width="65" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-27">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-29" value="2.97V" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-27">
           <mxGeometry x="65" width="125" height="50" as="geometry">
             <mxRectangle width="125" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-27">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-30" value="2.4V" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-27">
           <mxGeometry x="190" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -153,12 +153,12 @@
             <mxRectangle width="65" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-34" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-32">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-34" value="0.33V" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-32">
           <mxGeometry x="65" width="125" height="50" as="geometry">
             <mxRectangle width="125" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-35" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-32">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-35" value="0.7V" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-32">
           <mxGeometry x="190" width="130" height="50" as="geometry">
             <mxRectangle width="130" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -171,7 +171,7 @@
         <mxCell id="mykr_Vf041ZoasqlNyQm-37" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-1">
           <mxGeometry y="350" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mykr_Vf041ZoasqlNyQm-38" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-37">
+        <mxCell id="mykr_Vf041ZoasqlNyQm-38" value="IO" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="mykr_Vf041ZoasqlNyQm-37">
           <mxGeometry width="65" height="50" as="geometry">
             <mxRectangle width="65" height="50" as="alternateBounds" />
           </mxGeometry>
