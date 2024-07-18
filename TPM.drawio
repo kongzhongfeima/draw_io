@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T06:59:29.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3XSD3dh7bwClfbyJX1Vd" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T07:55:57.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="pxBwgDIa55xo2rcMFgdi" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="1786" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -247,7 +247,7 @@
             <mxPoint x="-37" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gr0Zq-AI6Quabplr0KPa-233" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;collapsible=0;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1" collapsed="1">
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-233" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;collapsible=0;" parent="Gr0Zq-AI6Quabplr0KPa-179" vertex="1">
           <mxGeometry x="58" y="216" width="5" as="geometry" />
         </mxCell>
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-234" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#660000;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-224" target="Gr0Zq-AI6Quabplr0KPa-233" edge="1">
@@ -361,6 +361,83 @@
         </mxCell>
         <mxCell id="aTX_-ej4Rg6P1lHDBfTl-22" value="ECID(new field)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-216.46566519010958" y="161.64988725591365" as="geometry" />
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-23" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-309" y="241" as="sourcePoint" />
+            <mxPoint x="-370" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-24" value="TAM SUDI(ASIC ECID)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-23">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="114" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-25" value="ASIC SUSI(ASIC ECID)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-23">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="-104" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-26" value="compare" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-242.9995918352627" y="246.9952325191889" as="geometry">
+            <mxPoint x="-95" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aTX_-ej4Rg6P1lHDBfTl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-407" y="401.3333740234375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-27" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;eSPI firmware supported by ASIC&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-475" y="323" width="135" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-28" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="310" as="sourcePoint" />
+            <mxPoint x="-341" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-29" value="CLIIP" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-28">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="63" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-30" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-271" y="342" as="sourcePoint" />
+            <mxPoint x="-337" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-31" value="SUSI" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-30">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="67" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-34" value="encrypted" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-264.99566519010955" y="322.9998872559137" as="geometry">
+            <mxPoint x="-38" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-35" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;shape=flexArrow;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-374" y="427" as="sourcePoint" />
+            <mxPoint x="-435" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-36" value="SUDI(ECID)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-35">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="80" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-37" value="eFuses(ECID)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-35">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="-68" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-38" value="compare" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-307.99959183526266" y="432.9952325191889" as="geometry">
+            <mxPoint x="-95" y="-23" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
