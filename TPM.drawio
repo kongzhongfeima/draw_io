@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T08:27:50.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="L_VzNKUpJDB8BjkQvkAW" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T09:13:57.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="S7UV_zrEWriD5W2A2qfN" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="1786" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -441,6 +441,40 @@
           <mxGeometry x="-307.99959183526266" y="432.9952325191889" as="geometry">
             <mxPoint x="-95" y="-23" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-44" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;TPM Storage Space&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="483" width="135" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-45" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-278" y="470" as="sourcePoint" />
+            <mxPoint x="-339" y="494" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-46" value="SUDI&#39;d Cisco TPM" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-45">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="79" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-47" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-277" y="492" as="sourcePoint" />
+            <mxPoint x="-335" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-48" value="Space for ASIC RoT backup" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-47">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="119" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-49" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-277" y="515" as="sourcePoint" />
+            <mxPoint x="-336" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-51" value="TAM Services" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-232.46566519010958" y="513.6498872559137" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
