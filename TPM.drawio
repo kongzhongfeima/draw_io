@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T06:03:23.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VioDFYOKuTogrbiU7-Bz" border="50" scale="3" compressed="false" locked="false" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T06:59:29.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="3XSD3dh7bwClfbyJX1Vd" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1354" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1786" dy="471" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -322,6 +322,45 @@
         </mxCell>
         <mxCell id="Gr0Zq-AI6Quabplr0KPa-248" style="edgeStyle=none;jumpStyle=arc;html=1;entryX=0.5;entryY=1;entryPerimeter=0;endArrow=classicThin;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=none;strokeWidth=2;fontFamily=Comic Sans MS;fontSize=12;rounded=0;startSize=8;endSize=8;curved=1;" parent="Gr0Zq-AI6Quabplr0KPa-179" source="Gr0Zq-AI6Quabplr0KPa-238" target="Gr0Zq-AI6Quabplr0KPa-247" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;TAM SUDI request&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-467" y="123" width="135" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-12" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-272" y="110" as="sourcePoint" />
+            <mxPoint x="-333" y="134" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-13" value="serial number" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-12">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="79" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-18" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-271" y="132" as="sourcePoint" />
+            <mxPoint x="-329" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-19" value="pid......" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-18">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="66" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-20" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-271" y="155" as="sourcePoint" />
+            <mxPoint x="-330" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-21" value="diag read these valuse from ASICs to invoke tam_lib_*_sudi_request API" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="aTX_-ej4Rg6P1lHDBfTl-20">
+          <mxGeometry x="0.2571" relative="1" as="geometry">
+            <mxPoint x="-3" y="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-22" value="ECID(new field)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-216.46566519010958" y="161.64988725591365" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
