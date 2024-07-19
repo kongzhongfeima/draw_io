@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:24:52.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="KR7IAwaHl_82mY1P43FQ" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:37:50.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="V335iKlrSKMC4cJdi3dD" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="1960" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -251,11 +251,23 @@
             <mxPoint x="348" y="217" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-48" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ROT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" vertex="1" parent="1">
+        <mxCell id="Tv043VacSI13TBImzbUp-48" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;For ROT&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" vertex="1" parent="1">
           <mxGeometry x="47" y="-23" width="66" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;TPM&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" vertex="1" parent="1">
+        <mxCell id="Tv043VacSI13TBImzbUp-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;For TPM&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" vertex="1" parent="1">
           <mxGeometry x="352" y="-18" width="66" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tv043VacSI13TBImzbUp-50" target="Tv043VacSI13TBImzbUp-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-50" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;将 CLIIP, SUDI写入RoT&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;调用 asic_lib_authentication()，如果 CLIIP 和 SUDI 安装成功，则应该通过&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="408" width="547" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tv043VacSI13TBImzbUp-18" target="Tv043VacSI13TBImzbUp-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-53" value="&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Perform ASIC binding&amp;nbsp;test&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;to verify ROT Provisioning&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="496" width="207" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
