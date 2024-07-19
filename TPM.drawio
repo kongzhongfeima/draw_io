@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:37:50.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="V335iKlrSKMC4cJdi3dD" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:42:19.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="X9ii58AqaNx9rtA4efRN" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="1960" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -46,18 +46,18 @@
         <mxCell id="aTX_-ej4Rg6P1lHDBfTl-22" value="ECID(new field)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-216.46566519010958" y="161.64988725591365" as="geometry" />
         </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-23" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;shape=flexArrow;" parent="1" edge="1">
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-23" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;shape=link;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-309" y="241" as="sourcePoint" />
+            <mxPoint x="-318" y="243" as="sourcePoint" />
             <mxPoint x="-370" y="243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-24" value="TAM SUDI(ASIC ECID)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="aTX_-ej4Rg6P1lHDBfTl-23" vertex="1" connectable="0">
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-24" value="TAM SUDI(ASIC ECID)&lt;div&gt;(SUDI support ECC or RSA)&lt;/div&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="aTX_-ej4Rg6P1lHDBfTl-23" vertex="1" connectable="0">
           <mxGeometry x="0.2571" relative="1" as="geometry">
-            <mxPoint x="114" y="-2" as="offset" />
+            <mxPoint x="118" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-25" value="ASIC SUSI(ASIC ECID)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="aTX_-ej4Rg6P1lHDBfTl-23" vertex="1" connectable="0">
+        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-25" value="ASIC SUSI(ASIC ECID)&lt;div&gt;(SUSI only support ECC)&lt;/div&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="aTX_-ej4Rg6P1lHDBfTl-23" vertex="1" connectable="0">
           <mxGeometry x="0.2571" relative="1" as="geometry">
             <mxPoint x="-104" as="offset" />
           </mxGeometry>
@@ -268,6 +268,12 @@
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-53" value="&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Perform ASIC binding&amp;nbsp;test&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;to verify ROT Provisioning&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2" y="496" width="207" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-55" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-383" y="244.41" as="sourcePoint" />
+            <mxPoint x="-308" y="244.41" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
