@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T03:01:15.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="2_z_b7tffxGQEXcGuIw_" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T03:10:47.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="kPAU3kVlMPO9cmObqAE_" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2432" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2479" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -282,24 +282,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ASIC generate nonce&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="10" width="175" height="31" as="geometry" />
+          <mxGeometry x="681" y="-6" width="175" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-58" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;tam rsa/ecc sign using SUDI pair send nonce to TAM&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="59" width="393" height="31" as="geometry" />
+        <mxCell id="Tv043VacSI13TBImzbUp-58" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;NPU driver send nonce to TAM,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;tam rsa/ecc sign nonce&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="40" width="242" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;TAM retrieve SUDI certificate&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="656.5" y="109" width="224" height="31" as="geometry" />
+        <mxCell id="Tv043VacSI13TBImzbUp-59" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;NPU driver retrieves the&amp;nbsp;SUDI cert, certificate chain&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;and signature over nonce from TAM&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="575.5" y="107" width="387" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-60" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ASIC verify binding&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="691.5" y="156.5" width="154" height="31" as="geometry" />
+        <mxCell id="Tv043VacSI13TBImzbUp-60" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;NPU send data packet to ASIC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ASIC verify binding&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="174" width="237" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-65" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="778" y="40" width="2" height="121" as="geometry" />
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Tv043VacSI13TBImzbUp-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2" y="98" as="sourcePoint" />
-            <mxPoint x="2" y="121" as="targetPoint" />
+            <mxPoint x="2" y="110" as="sourcePoint" />
+            <mxPoint x="2" y="133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Tv043VacSI13TBImzbUp-65">
@@ -310,12 +310,21 @@
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Tv043VacSI13TBImzbUp-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint y="23" as="targetPoint" />
+            <mxPoint y="-16" as="sourcePoint" />
+            <mxPoint y="7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" vertex="1" parent="1">
           <mxGeometry x="-914" y="180" width="164" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-68" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;RoT validates the signature&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;and verifies the cert chain&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="244" width="217" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="779" y="220" as="sourcePoint" />
+            <mxPoint x="779" y="243" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
