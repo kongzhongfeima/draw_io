@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T02:42:19.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="X9ii58AqaNx9rtA4efRN" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T02:55:28.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Jy-SoHQHT2o9vcUgmP5X" border="50" scale="3" compressed="false" locked="false" version="24.7.1" type="github">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
     <mxGraphModel dx="1960" dy="954" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
@@ -273,6 +273,45 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="-383" y="244.41" as="sourcePoint" />
             <mxPoint x="-308" y="244.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-56" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-443" y="433" as="sourcePoint" />
+            <mxPoint x="-368" y="433" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ASIC generate nonce&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="10" width="175" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-58" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;tam rsa/ecc sign using SUDI pair send nonce to TAM&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="59" width="393" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;TAM retrieve SUDI certificate&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="656.5" y="109" width="224" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-60" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ASIC verify binding&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="691.5" y="156.5" width="154" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="778" y="40" width="2" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Tv043VacSI13TBImzbUp-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" y="98" as="sourcePoint" />
+            <mxPoint x="2" y="121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Tv043VacSI13TBImzbUp-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="45" as="sourcePoint" />
+            <mxPoint y="68" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv043VacSI13TBImzbUp-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="Tv043VacSI13TBImzbUp-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint y="23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
