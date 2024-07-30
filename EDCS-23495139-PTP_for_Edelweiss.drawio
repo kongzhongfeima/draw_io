@@ -4,9 +4,6 @@
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-43" value="" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-523" y="353" width="403" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="aTX_-ej4Rg6P1lHDBfTl-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;ZL30734&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-467" y="123" width="135" height="46" as="geometry" />
         </mxCell>
@@ -30,144 +27,8 @@
         <mxCell id="aTX_-ej4Rg6P1lHDBfTl-22" value="system clock" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-232.46566519010958" y="152.99988725591365" as="geometry" />
         </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-23" value="" style="startArrow=none;endArrow=none;segment=10;strokeColor=#336600;rounded=0;fontSize=12;shape=link;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-309" y="382" as="sourcePoint" />
-            <mxPoint x="-361" y="382" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-24" value="TAM SUDI(ASIC ECID)&lt;div&gt;(SUDI support ECC or RSA)&lt;/div&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="aTX_-ej4Rg6P1lHDBfTl-23" vertex="1" connectable="0">
-          <mxGeometry x="0.2571" relative="1" as="geometry">
-            <mxPoint x="118" y="-2" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-25" value="ASIC SUSI(ASIC ECID)&lt;div&gt;(SUSI only support ECC)&lt;/div&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="aTX_-ej4Rg6P1lHDBfTl-23" vertex="1" connectable="0">
-          <mxGeometry x="0.2571" relative="1" as="geometry">
-            <mxPoint x="-104" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aTX_-ej4Rg6P1lHDBfTl-26" value="compare" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-233.9995918352627" y="385.9952325191889" as="geometry">
-            <mxPoint x="-95" y="-23" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ju6k5pHE7lARewc20TCf-1" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;m&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" parent="1" vertex="1">
           <mxGeometry x="-803" y="161" width="220" height="199.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" parent="1" source="Tv043VacSI13TBImzbUp-2" target="Tv043VacSI13TBImzbUp-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="93" y="108" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="27.5" y="38" width="126" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-3" value="retrieve chip SN/ECID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="23" y="47.5" width="135" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="27.5" y="113" width="126" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" parent="1" source="Tv043VacSI13TBImzbUp-6" target="Tv043VacSI13TBImzbUp-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-6" value="base on SN, request&amp;nbsp;&lt;div&gt;CLIIP from CBE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="115.5" width="131" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="37" y="185" width="107" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-8" value="install CLIIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="49.5" y="184" width="82" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="11" y="230" width="159" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-11" value="create CMS SUSI request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="12.5" y="236.5" width="156" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.477;entryY=-0.218;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" target="Tv043VacSI13TBImzbUp-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="89" y="210" as="sourcePoint" />
-            <mxPoint x="87" y="226" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" parent="1" source="Tv043VacSI13TBImzbUp-15" target="Tv043VacSI13TBImzbUp-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-15" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="37" y="296" width="107" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-16" value="install SUSI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="47" y="295.5" width="80" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.496;entryY=-0.09;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" parent="1" source="Tv043VacSI13TBImzbUp-10" target="Tv043VacSI13TBImzbUp-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-18" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="13" y="347" width="159" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-19" value="verify SUSI installation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="23.5" y="353.5" width="138" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-22" value="&lt;a name=&quot;_Toc149315524&quot;&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;DIAGS/Manufacturing teams&lt;/span&gt;&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;fontStyle=3" parent="1" vertex="1">
-          <mxGeometry x="141" y="-44" width="208" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=1;" parent="1" source="Tv043VacSI13TBImzbUp-24" target="Tv043VacSI13TBImzbUp-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="384" y="117.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-24" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;retrieve chip SN/ECID&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="318.5" y="47.5" width="126" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tv043VacSI13TBImzbUp-26" target="Tv043VacSI13TBImzbUp-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-26" value="put ECID in&amp;nbsp;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;tam_lib_mfg_cms_sudi_request()&amp;nbsp;API&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="210.5" y="122.5" width="337.5" height="51.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-29" value="CBE add ECID in SUDI" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="194.5" width="139" height="25.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-44" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;install CLIIP, SUDI&lt;br/&gt;and any other TAM device specific content.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="218.5" y="251" width="322" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=-0.041;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Tv043VacSI13TBImzbUp-29" target="Tv043VacSI13TBImzbUp-44" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-46" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Validate the Aikido&amp;nbsp;ASIC binding to make sure correct&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;ECIDs programmed on the TAM Device SUDI&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="191" y="326" width="400" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.517;entryY=-0.039;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.517;exitY=1.069;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Tv043VacSI13TBImzbUp-44" target="Tv043VacSI13TBImzbUp-46" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="298" y="267" as="sourcePoint" />
-            <mxPoint x="348" y="217" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-48" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;For ASIC&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" parent="1" vertex="1">
-          <mxGeometry x="47" y="-23" width="66" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-49" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;For TPM&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;container=1;recursiveResize=0;treeFolding=1;strokeWidth=2;shadow=1;fillColor=#FF38BD;" parent="1" vertex="1">
-          <mxGeometry x="352" y="-18" width="66" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=-0.08;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Tv043VacSI13TBImzbUp-50" target="Tv043VacSI13TBImzbUp-53" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-50" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;将 CLIIP, SUDI写入RoT&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;调用 asic_lib_authentication()，如果 CLIIP 和 SUDI 安装成功，则应该通过&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-168" y="408" width="547" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Tv043VacSI13TBImzbUp-18" target="Tv043VacSI13TBImzbUp-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-53" value="&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Perform ASIC binding&amp;nbsp;test&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;to verify ROT Provisioning&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-2" y="496" width="207" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="Tv043VacSI13TBImzbUp-55" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-374" y="383.40999999999997" as="sourcePoint" />
-            <mxPoint x="-299" y="383.40999999999997" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Tv043VacSI13TBImzbUp-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ASIC generate nonce&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="681" y="-6" width="175" height="31" as="geometry" />
