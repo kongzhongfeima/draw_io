@@ -34,6 +34,9 @@
         <mxCell id="JMzKW63_s0mUS1gGGXOP-10" value="2.5GT/s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JMzKW63_s0mUS1gGGXOP-11" value="BROADWELL_LAN&#xa;bus-info: 0000:04:00.0&#xa;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
