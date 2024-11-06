@@ -504,6 +504,11 @@
         <mxCell id="-c0DdPRZS2cD63ygfUqH-157" value="/auto/crdc_ecbu_edvt/qyue/Projects/Silicon/EDVT/diagTrfPC/25_25_100/P2B2/ST.2/macsec/allagash_diag_st_2_macsec_trf_pc_25_100_p2_b2_optics_4532_20241106_C34.txt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="670" y="938" width="970" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="allagash_diag_trf_pc_25_100_p2_b2_optics_4402_2000ms_dsp_mode7_20240902_C34.txt" link="allagash_diag_trf_pc_25_100_p2_b2_optics_4402_2000ms_dsp_mode7_20240902_C34.txt" id="-c0DdPRZS2cD63ygfUqH-158">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="130" y="938" width="530" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
