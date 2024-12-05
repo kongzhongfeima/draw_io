@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="14KBRM82nE5KwHT6K0_8">
-    <mxGraphModel>
+    <mxGraphModel dx="1862" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-1" value="&quot;RX_FFE&quot;: {&#xa;                    &quot;FFE_TAP_PRE_CURSOR_3&quot;: 1,&#xa;                    &quot;FFE_TAP_PRE_CURSOR_2&quot;: 3,&#xa;                    &quot;FFE_TAP_PRE_CURSOR_1&quot;: 15,&#xa;                    &quot;FFE_TAP_MAIN_CURSOR&quot;: 63,&#xa;                    &quot;FFE_TAP_POST_CURSOR_1&quot;: 3,&#xa;                    &quot;FFE_TAP_POST_CURSOR_2&quot;: 6,&#xa;                    &quot;FFE_TAP_POST_CURSOR_3&quot;: -2,&#xa;                    &quot;FFE_TAP_POST_CURSOR_4&quot;: -1,&#xa;                    &quot;FFE_TAP_POST_CURSOR_5&quot;: -1,&#xa;                    &quot;FFE_TAP_POST_CURSOR_6&quot;: -1,&#xa;                    &quot;AFE_TRIM&quot;: 16,&#xa;                    &quot;PGA_GAIN&quot;: 240,&#xa;                    &quot;CTLE_PEAK&quot;: 63,&#xa;                    &quot;DFE_TAP&quot;: -0.203125,&#xa;                    &quot;DSP_GAIN&quot;: -12.086882591247559&#xa;                }," style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="300" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-2" value="FP#37&lt;div&gt;SNR = 27.6dB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD321;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-4" value="&quot;RX_FFE&quot;: {&#xa;                    &quot;FFE_TAP_PRE_CURSOR_3&quot;: 0,&#xa;                    &quot;FFE_TAP_PRE_CURSOR_2&quot;: 0,&#xa;                    &quot;FFE_TAP_PRE_CURSOR_1&quot;: 4,&#xa;                    &quot;FFE_TAP_MAIN_CURSOR&quot;: 63,&#xa;                    &quot;FFE_TAP_POST_CURSOR_1&quot;: 0,&#xa;                    &quot;FFE_TAP_POST_CURSOR_2&quot;: 4,&#xa;                    &quot;FFE_TAP_POST_CURSOR_3&quot;: -3,&#xa;                    &quot;FFE_TAP_POST_CURSOR_4&quot;: -1,&#xa;                    &quot;FFE_TAP_POST_CURSOR_5&quot;: 0,&#xa;                    &quot;FFE_TAP_POST_CURSOR_6&quot;: -1,&#xa;                    &quot;AFE_TRIM&quot;: 16,&#xa;                    &quot;PGA_GAIN&quot;: 235,&#xa;                    &quot;CTLE_PEAK&quot;: 63,&#xa;                    &quot;DFE_TAP&quot;: 0.015625,&#xa;                    &quot;DSP_GAIN&quot;: -1.6779661178588867&#xa;                }," style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="300" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-5" value="FP#37&lt;div&gt;SNR = 31.2dB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD321;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-6" value="&quot;FIR_TAP0&quot;: 0,&#xa;                &quot;FIR_TAP1&quot;: 0,&#xa;                &quot;FIR_TAP2&quot;: 0,&#xa;                &quot;FIR_TAP3&quot;: 0,&#xa;                &quot;FIR_TAP4&quot;: 0,&#xa;                &quot;FIR_TAP5&quot;: 952,&#xa;                &quot;FIR_TAP6&quot;: 0" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-8" value="&quot;FIR_TAP0&quot;: 0,&#xa;                &quot;FIR_TAP1&quot;: 0,&#xa;                &quot;FIR_TAP2&quot;: 0,&#xa;                &quot;FIR_TAP3&quot;: 0,&#xa;                &quot;FIR_TAP4&quot;: -95,&#xa;                &quot;FIR_TAP5&quot;: 666,&#xa;                &quot;FIR_TAP6&quot;: -190" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-9" value="FP#39" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD321;" vertex="1" parent="1">
+          <mxGeometry x="10" y="335" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-10" value="FP#39" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD321;" vertex="1" parent="1">
+          <mxGeometry x="440" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
