@@ -28,6 +28,9 @@
         <mxCell id="aAbNGBIdNx-aG0YcL8BD-10" value="FP#39" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD321;" vertex="1" parent="1">
           <mxGeometry x="440" y="345" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aAbNGBIdNx-aG0YcL8BD-11" value="/auto/crdc_ecbu_edvt/qyue/Projects/Silicon/EDVT/diagTrfPC/10_10_40/P2B4/log/v9p11_8_updated_Corner4_Loop2_20241129193745/tmp&lt;div&gt;/auto/crdc_ecbu_edvt/qyue/Projects/Silicon/EDVT/diagTrfPC/10_10_40/P2B4/log/v9p11_8_updated_Corner4_Loop13_20241130045756/tmp&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="770" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
