@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1">
   <diagram name="Page-1" id="qUZiwCtJkmxKNt8DoBQP">
-    <mxGraphModel dx="1224" dy="1589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1065" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,12 @@
             <mxGeometry x="480" y="-90" width="570" height="90" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="enMHDteDoNLcUYujy2Yz-10" value="HSD_QSFP11_IN_N&lt;0&gt;" style="text;whiteSpace=wrap;strokeColor=#FFFAFA;fillColor=#FF850A;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="756.37" width="140" height="23.63" as="geometry" />
+        </mxCell>
+        <mxCell id="enMHDteDoNLcUYujy2Yz-11" value="HSD_QSFP11_OUT_N&lt;0&gt;" style="text;whiteSpace=wrap;strokeColor=#FFFAFB;fillColor=#FFBE3B;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="640" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
