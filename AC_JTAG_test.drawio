@@ -42,6 +42,15 @@
         <mxCell id="sXi2LdFUhMa6Yp2CWgfN-1" value="chip ID test, then test bounary cell length, then test connection." style="text;whiteSpace=wrap;fillColor=#F7FF19;strokeColor=#FFF4F0;" vertex="1" parent="1">
           <mxGeometry x="140" y="860" width="370" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sXi2LdFUhMa6Yp2CWgfN-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1075" y="130" as="sourcePoint" />
+            <mxPoint x="1210" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sXi2LdFUhMa6Yp2CWgfN-3" value="TX端区分AC和DC，AC有差分器&lt;div&gt;RX端不区分&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-97" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
