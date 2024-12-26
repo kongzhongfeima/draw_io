@@ -76,6 +76,15 @@
         <mxCell id="33I4KChZddCSbx4Spaq3-117" value="0.55~0.8V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="598" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="33I4KChZddCSbx4Spaq3-118" value="TC7SZ08FU,LJ(CT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="390" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33I4KChZddCSbx4Spaq3-119" value="2.475V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33I4KChZddCSbx4Spaq3-120" value="0.825V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="478" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
