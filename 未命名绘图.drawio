@@ -308,10 +308,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h1&gt;中医鲸师傅(B站UP)&lt;/h1&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1tpfpYYE71/&quot;&gt;https://www.bilibili.com/video/BV1tpfpYYE71/&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV153iUY4ErQ/&quot;&gt;https://www.bilibili.com/video/BV153iUY4ErQ/&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;推荐书籍《拨开迷雾学中医》&lt;/p&gt;" link="&lt;h1&gt;中医鲸师傅(B站UP)&lt;/h1&gt;&#xa;&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1tpfpYYE71/&quot;&gt;https://www.bilibili.com/video/BV1tpfpYYE71/&lt;/a&gt;&lt;/p&gt;&#xa;&lt;p&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV153iUY4ErQ/&quot;&gt;https://www.bilibili.com/video/BV153iUY4ErQ/&lt;/a&gt;&lt;/p&gt;&#xa;&lt;p&gt;《拨开迷雾学中医》&lt;/p&gt;" id="5YXkiNcvc_BRzMC24gNN-7">
-          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
             <mxGeometry x="-214" y="119" width="270" height="241" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="1VfrZWcZAY6R-4dDh4F4-1" value="中风or风寒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="656" y="174" width="77" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
