@@ -312,7 +312,7 @@
             <mxGeometry x="-214" y="119" width="270" height="241" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="1VfrZWcZAY6R-4dDh4F4-1" value="中风or风寒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1VfrZWcZAY6R-4dDh4F4-1" value="中风or风寒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="656" y="174" width="77" height="26" as="geometry" />
         </mxCell>
       </root>
