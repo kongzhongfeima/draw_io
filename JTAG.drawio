@@ -252,26 +252,8 @@
         <mxCell id="mF87T8F_ObDAb6gEvjld-79" value="GSLD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD7E0;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="23" y="319" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-81" value="Macsec 0~3 3.3V JTAG TDO&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="510" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-82" value="Macsec 0~3 3.3V JTAG TDI&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="510" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-83" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="964" y="523" as="sourcePoint" />
-            <mxPoint x="994" y="523" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-84" value="DIE0_TDO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#AFFFBD;" vertex="1" parent="1">
           <mxGeometry x="750" y="588.75" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="524.86" as="sourcePoint" />
-            <mxPoint x="800" y="524.86" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="570.25" width="50" height="67" as="geometry" />
