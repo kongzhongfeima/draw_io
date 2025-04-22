@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mF87T8F_ObDAb6gEvjld-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mF87T8F_ObDAb6gEvjld-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#FEFFF4;" vertex="1" parent="1">
           <mxGeometry x="60" y="110" width="100" height="290" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-1" value="3.3V JTAG TCK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -128,10 +128,10 @@
         <mxCell id="mF87T8F_ObDAb6gEvjld-43" value="Allagash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD7E0;" vertex="1" parent="1">
           <mxGeometry x="70" y="429" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-80" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="mF87T8F_ObDAb6gEvjld-80" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="592" y="105" width="819" height="369" as="geometry" />
         </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-44" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
+        <mxCell id="mF87T8F_ObDAb6gEvjld-44" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0E8;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="8" width="100" height="290" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-45" value="3.3V JTAG TCK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
