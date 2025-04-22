@@ -147,13 +147,10 @@
           <mxGeometry y="102.75" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-49" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
-          <mxGeometry x="118" y="9.5" width="50" height="67" as="geometry" />
+          <mxGeometry x="118" y="-20" width="42" height="96.5" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-50" value="AR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="229" y="39.5" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-51" value="CPLD 0~2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
-          <mxGeometry x="168" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.982;exitY=0.47;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="mF87T8F_ObDAb6gEvjld-80" source="mF87T8F_ObDAb6gEvjld-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -264,6 +261,12 @@
             <mxPoint x="520" y="286.75" as="sourcePoint" />
             <mxPoint x="550" y="286.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mF87T8F_ObDAb6gEvjld-99" value="Macsec 0~4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
+          <mxGeometry x="155" y="-11" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mF87T8F_ObDAb6gEvjld-51" value="CPLD 0~2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="752" y="75" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
