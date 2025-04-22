@@ -170,7 +170,7 @@
         <mxCell id="mF87T8F_ObDAb6gEvjld-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="355" y="180" width="23" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-56" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;JTAG_TDI_FPGA_KR_3V3(From FPGA)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
+        <mxCell id="mF87T8F_ObDAb6gEvjld-56" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;JTAG_TDI_FPGA_AR_3V3(From FPGA)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="171" y="202" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-57" value="Mux" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
