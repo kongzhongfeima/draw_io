@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mF87T8F_ObDAb6gEvjld-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="110" height="290" as="geometry" />
+          <mxGeometry x="60" y="110" width="100" height="290" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-1" value="3.3V JTAG TCK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="138" width="110" height="30" as="geometry" />
