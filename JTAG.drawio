@@ -262,8 +262,11 @@
             <mxPoint x="550" y="286.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-99" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Macsec 0~4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
+        <mxCell id="mF87T8F_ObDAb6gEvjld-99" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Macsec 0~4&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="112" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mF87T8F_ObDAb6gEvjld-100" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Macsec 0~4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
+          <mxGeometry x="156" y="-9" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-51" value="CPLD 0~2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="752" y="75" width="80" height="30" as="geometry" />
