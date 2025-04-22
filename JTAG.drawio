@@ -245,7 +245,7 @@
         <mxCell id="mF87T8F_ObDAb6gEvjld-79" value="GSLD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD7E0;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="23" y="319" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mF87T8F_ObDAb6gEvjld-84" value="DIE0_TDO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#AFFFBD;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
+        <mxCell id="mF87T8F_ObDAb6gEvjld-84" value="DIE0_TDO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#1AFF2D;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="229" y="303.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mF87T8F_ObDAb6gEvjld-87" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
