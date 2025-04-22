@@ -255,6 +255,9 @@
         <mxCell id="mF87T8F_ObDAb6gEvjld-79" value="GSLD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFD7E0;" vertex="1" parent="mF87T8F_ObDAb6gEvjld-80">
           <mxGeometry x="23" y="319" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mF87T8F_ObDAb6gEvjld-81" value="Macsec 0~3 3.3V JTAG TDO&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
