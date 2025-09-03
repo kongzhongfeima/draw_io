@@ -97,6 +97,24 @@
         <mxCell id="8OteLNt2wBiWXwX5sppi-13" value="RJ451 LINK/ACT off, SFP ACT blink" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="101" y="578" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-14" value="0298 status[1] bit[7:4]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-31" y="622" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-15" value="RJ451 LINK/ACT off, SFP ACT off" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="622" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-16" value="0288 status[1] bit[7:4]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-31" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-17" value="RJ451 LINK/ACT off, SFP ACT on" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="600" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-18" value="0288 status[1] bit[7:4]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-19" value="RJ451 LINK/ACT off, SFP LINK/ACT off" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="91" y="640" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
