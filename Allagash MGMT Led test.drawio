@@ -121,6 +121,12 @@
         <mxCell id="8OteLNt2wBiWXwX5sppi-21" value="RJ451 LINK/ACT off, SFP LINK/ACT on" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="345" y="670" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-22" value="8286 status[1] bit[7:4]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="226" y="740" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8OteLNt2wBiWXwX5sppi-23" value="RJ451 LINK on, ACT off, SFP LINK/ACT off" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="740" width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
