@@ -88,8 +88,8 @@
         <mxCell id="8OteLNt2wBiWXwX5sppi-10" value="02B6 status[1] bit[7:4]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="556" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8OteLNt2wBiWXwX5sppi-11" value="RJ451 ACT on, SFP ACT off" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="556" width="170" height="30" as="geometry" />
+        <mxCell id="8OteLNt2wBiWXwX5sppi-11" value="RJ451 ACT blink, SFP ACT blink" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="556" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8OteLNt2wBiWXwX5sppi-12" value="0248 status[1] bit[7:4]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="578" width="140" height="30" as="geometry" />
