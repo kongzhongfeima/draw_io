@@ -37,6 +37,11 @@
             <mxPoint x="690" y="963.0434782608695" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="/auto/crdc_ecbu_edvt/qyue/Projects/Silicon/EDVT/nxosTrfPC/25_100/P3_5/macsec/log/algsh_nxos_trf_macsec_pc_25_25_100_p3_5_97_98_dis_AN_20250919.txt" link="/auto/crdc_ecbu_edvt/qyue/Projects/Silicon/EDVT/nxosTrfPC/25_100/P3_5/macsec/log/algsh_nxos_trf_macsec_pc_25_25_100_p3_5_97_98_dis_AN_20250919.txt" id="tlKgeLPtrDtl5y-UQDKU-8">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="690" y="700" width="560" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
