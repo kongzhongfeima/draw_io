@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7">
   <diagram name="Page-1" id="Wpfmcz8Rb3hNqgcn2S1r">
-    <mxGraphModel dx="1017" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="LFqMVEUGCx9w8Pttymk2-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="check port2 tx" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LFqMVEUGCx9w8Pttymk2-19" parent="1" style="text;whiteSpace=wrap;" value="ALGSH_P4_1(config)# sh int eth 1/1 counters detailed &#xa;Ethernet1/1&#xa;  Rx Packets:                                 28698162335&#xa;  Rx Unicast Packets:                         28698162335&#xa;  Rx Bytes:                                 5050876570960&#xa;  Rx Packets from 128 to 255 bytes:           28698162335&#xa;&#xa;ALGSH_P4_1(config)# sh int eth 1/5 counters detailed &#xa;Ethernet1/5&#xa;  Tx Packets:                                 28690660634&#xa;  Tx Unicast Packets:                         28690659373&#xa;  Tx Multicast Packets:                              1261&#xa;  Tx Bytes:                                 5049556391221&#xa;  Tx Packets from 0 to 64 bytes:                      114&#xa;  Tx Packets from 128 to 255 bytes:           28690659259&#xa;  Tx Packets from 256 to 511 bytes:                  1261" vertex="1">
+          <mxGeometry height="460" width="330" x="-320" y="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
