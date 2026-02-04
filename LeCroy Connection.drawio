@@ -169,6 +169,12 @@
             <mxPoint x="450" y="99.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1DhMVXlJ8CrVivrNGANL-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Switch" vertex="1">
+          <mxGeometry height="30" width="60" x="417" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="1DhMVXlJ8CrVivrNGANL-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Switch" vertex="1">
+          <mxGeometry height="30" width="60" x="425" y="290" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
