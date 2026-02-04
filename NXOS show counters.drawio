@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.7">
   <diagram name="Page-1" id="Wpfmcz8Rb3hNqgcn2S1r">
-    <mxGraphModel dx="1867" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1867" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="LFqMVEUGCx9w8Pttymk2-20" parent="1" style="text;whiteSpace=wrap;" value="sh logging logfile | grep &quot;Link fai&quot;&#xa;2026 Feb  3 10:05:45 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/103 is down (Link failure)&#xa;2026 Feb  3 10:05:46 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/104 is down (Link failure)&#xa;2026 Feb  3 10:11:21 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/103 is down (Link failure)&#xa;2026 Feb  3 10:11:22 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/104 is down (Link failure)&#xa;2026 Feb  3 10:13:18 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/107 is down (Link failure)&#xa;2026 Feb  3 10:13:18 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/108 is down (Link failure)&#xa;2026 Feb  3 10:15:43 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/99 is down (Link failure)&#xa;2026 Feb  3 10:15:43 ALGSH_P4_1 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/100 is down (Link failure)" vertex="1">
           <mxGeometry height="270" width="560" x="-320" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="LFqMVEUGCx9w8Pttymk2-21" parent="1" style="text;whiteSpace=wrap;" value="ALGSH_P4_1(config)# sh run int eth 1/1&#xa;&#xa;&#xa;!Command: show running-config interface Ethernet1/1&#xa;!Running configuration last done at: Tue Feb  3 09:56:18 2026&#xa;!Time: Wed Feb  4 06:58:39 2026&#xa;&#xa;&#xa;version 10.6(3) Bios:version 01.08 &#xa;&#xa;&#xa;interface Ethernet1/1&#xa;  mtu 9216&#xa;  speed 25000&#xa;  fec off&#xa;  mac-address 9c09.8bbb.21d4&#xa;  vrf member vrf201&#xa;  ip address 10.1.1.1/24&#xa;  ip arp 10.1.1.254 0000.0000.0001&#xa;  no shutdown&#xa;&#xa;&#xa;ALGSH_P4_1(config)# sh vrf vrf201&#xa;VRF-Name                           VRF-ID State   Reason                        &#xa;vrf201                                 10 Up      --                            &#xa;ALGSH_P4_1(config)# sh run vrf vrf201&#xa;&#xa;&#xa;!Command: show running-config vrf vrf201&#xa;!Running configuration last done at: Tue Feb  3 09:56:18 2026&#xa;!Time: Wed Feb  4 06:58:51 2026&#xa;&#xa;&#xa;version 10.6(3) Bios:version 01.08 &#xa;&#xa;&#xa;interface Ethernet1/1&#xa;  vrf member vrf201&#xa;&#xa;&#xa;interface Ethernet1/5&#xa;  vrf member vrf201&#xa;vrf context vrf201&#xa;  ip route 2.2.2.99/32 101.5.5.2&#xa;  ip route 99.2.2.2/32 10.1.1.254" vertex="1">
+          <mxGeometry height="670" width="390" x="-320" y="-700" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
