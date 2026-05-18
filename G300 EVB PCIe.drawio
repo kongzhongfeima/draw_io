@@ -119,7 +119,16 @@
           <mxGeometry height="30" width="60" x="580" y="530" as="geometry" />
         </mxCell>
         <mxCell id="sCWqNb8X9fbYyOMFXr9O-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="NPU" vertex="1">
-          <mxGeometry height="30" width="90" x="750" y="530" as="geometry" />
+          <mxGeometry height="70" width="90" x="750" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-46" parent="1" style="text;whiteSpace=wrap;" value="HSAT_PCIe, Gen4x4 + 4 * Gen4x2" vertex="1">
+          <mxGeometry height="40" width="220" x="540" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-47" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="580" as="sourcePoint" />
+            <mxPoint x="750" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
