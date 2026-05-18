@@ -17,7 +17,43 @@
           <mxGeometry height="40" width="110" x="200" y="250" as="geometry" />
         </mxCell>
         <mxCell id="sCWqNb8X9fbYyOMFXr9O-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;text-align: left;&quot;&gt;LMK00334&lt;/span&gt;" vertex="1">
-          <mxGeometry height="70" width="110" x="360" y="190" as="geometry" />
+          <mxGeometry height="80" width="110" x="360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-11" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="200" as="sourcePoint" />
+            <mxPoint x="590" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M IOFPGA" vertex="1">
+          <mxGeometry height="30" width="100" x="475" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="220" as="sourcePoint" />
+            <mxPoint x="590" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M NPU" vertex="1">
+          <mxGeometry height="30" width="200" x="425" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="240" as="sourcePoint" />
+            <mxPoint x="680" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M to HSAT CLK buffer" vertex="1">
+          <mxGeometry height="30" width="230" x="480" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M to PM40028" vertex="1">
+          <mxGeometry height="30" width="230" x="430" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="260" as="sourcePoint" />
+            <mxPoint x="640" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
