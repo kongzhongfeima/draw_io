@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="cJ1i2ZrDSGZ8loSRIs3i">
-    <mxGraphModel>
+    <mxGraphModel dx="766" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-10" edge="1" parent="1" source="sCWqNb8X9fbYyOMFXr9O-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="sCWqNb8X9fbYyOMFXr9O-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CB 100M CLK" vertex="1">
+          <mxGeometry height="40" width="110" x="200" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-9" edge="1" parent="1" source="sCWqNb8X9fbYyOMFXr9O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="sCWqNb8X9fbYyOMFXr9O-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OSC100M CLK" vertex="1">
+          <mxGeometry height="40" width="110" x="200" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;text-align: left;&quot;&gt;LMK00334&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="110" x="360" y="190" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
