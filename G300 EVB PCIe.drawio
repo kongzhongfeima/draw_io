@@ -43,25 +43,34 @@
             <mxPoint x="680" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sCWqNb8X9fbYyOMFXr9O-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M to HSAT CLK buffer" vertex="1">
-          <mxGeometry height="30" width="230" x="480" y="220" as="geometry" />
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M to HSAT CLK buffer&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="230" x="468" y="220" as="geometry" />
         </mxCell>
         <mxCell id="sCWqNb8X9fbYyOMFXr9O-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="100M to PM40028" vertex="1">
-          <mxGeometry height="30" width="230" x="440" y="240" as="geometry" />
+          <mxGeometry height="30" width="230" x="440" y="243" as="geometry" />
         </mxCell>
         <mxCell id="sCWqNb8X9fbYyOMFXr9O-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="OSC100M CLK" vertex="1">
           <mxGeometry height="30" width="90" x="610" y="277" as="geometry" />
         </mxCell>
         <mxCell id="sCWqNb8X9fbYyOMFXr9O-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;span style=&quot;text-align: left;&quot;&gt;PM40028&lt;/span&gt;" vertex="1">
-          <mxGeometry height="130" width="110" x="770" y="200" as="geometry" />
+          <mxGeometry height="130" width="110" x="900" y="200" as="geometry" />
         </mxCell>
         <mxCell id="sCWqNb8X9fbYyOMFXr9O-25" edge="1" parent="1" source="sCWqNb8X9fbYyOMFXr9O-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" target="sCWqNb8X9fbYyOMFXr9O-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCWqNb8X9fbYyOMFXr9O-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;text-align: left;&quot;&gt;LMK00338&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;U136&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="110" x="680" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.13;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.013;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="470" y="261.5" as="sourcePoint" />
-            <mxPoint x="770" y="262" as="targetPoint" />
+            <mxPoint x="469.9000000000001" y="265.01" as="sourcePoint" />
+            <mxPoint x="898.5699999999999" y="262.59000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCWqNb8X9fbYyOMFXr9O-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="790" y="229" as="sourcePoint" />
+            <mxPoint x="900" y="229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
