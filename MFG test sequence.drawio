@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jsnN7EEX-wjv45HLSN-A">
-    <mxGraphModel dx="1984" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
         <mxCell id="H-91W84931xTTQuy3_rS-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="45C HTHV" vertex="1">
           <mxGeometry height="30" width="130" x="390" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="H-91W84931xTTQuy3_rS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="25C PCB2C" vertex="1">
+        <mxCell id="H-91W84931xTTQuy3_rS-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="25C PCBP2" vertex="1">
           <mxGeometry height="30" width="130" x="30" y="470" as="geometry" />
         </mxCell>
         <mxCell id="H-91W84931xTTQuy3_rS-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFC67;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;skip ST.2 to avoid OT, need run /mnt/screen.py to skip&lt;/font&gt;" vertex="1">
