@@ -85,7 +85,7 @@
         <mxCell id="H-91W84931xTTQuy3_rS-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;bb_temperature.yml放/mnt下，&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;然后在板子起来后，用 /mnt下 定制的 bb_temperature.yml&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;覆盖改板子上的&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;/yaml/sensor/allagash/bb_temperature.yml&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;然后重启diag&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="870" x="370" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="H-91W84931xTTQuy3_rS-20" parent="1" style="text;whiteSpace=wrap;" value="ALLAGASH [N9K-F] 3&gt;% q   &#xa;Warning: Diag will be terminated...&#xa;Do you really want to quit? [yes/no] yes&#xa;&#xa;  NOTICE: User in session &#39;Console&#39; has terminated the system ( slot 0)&#xa;&#xa;/ # cp /mnt/x.yaml /yaml/sensor/allagash/bb_temperature.yml&#xa;&#xa;/ # ls /yaml/sensor/allagash/bb_temperature.yml -ltr&#xa;&#xa;/ # /bin/n9k_fixed_diag" vertex="1">
+        <mxCell id="H-91W84931xTTQuy3_rS-20" parent="1" style="text;whiteSpace=wrap;" value="Console: &#xa;ALLAGASH [N9K-F] 3&gt;% q   &#xa;Warning: Diag will be terminated...&#xa;Do you really want to quit? [yes/no] yes&#xa;&#xa;  NOTICE: User in session &#39;Console&#39; has terminated the system ( slot 0)&#xa;&#xa;/ # cp /mnt/x.yaml /yaml/sensor/allagash/bb_temperature.yml&#xa;&#xa;/ # ls /yaml/sensor/allagash/bb_temperature.yml -ltr&#xa;&#xa;/ # /bin/n9k_fixed_diag" vertex="1">
           <mxGeometry height="270" width="410" x="650" y="540" as="geometry" />
         </mxCell>
       </root>
