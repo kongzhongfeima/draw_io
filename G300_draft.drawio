@@ -232,7 +232,7 @@
             <mxRectangle height="18" width="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6KMkDmMhGsxM1Zo41Ns3-84" parent="6KMkDmMhGsxM1Zo41Ns3-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;" value="No" vertex="1">
+        <mxCell id="6KMkDmMhGsxM1Zo41Ns3-84" parent="6KMkDmMhGsxM1Zo41Ns3-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=8;" value="Yes" vertex="1">
           <mxGeometry height="18" width="52" x="218" as="geometry">
             <mxRectangle height="18" width="52" as="alternateBounds" />
           </mxGeometry>
