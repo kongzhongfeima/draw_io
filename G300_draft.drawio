@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="pN4JVeTZKHKZNRdLbVx1">
-    <mxGraphModel dx="1807" dy="1609" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2395" dy="1768" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2533,10 +2533,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c1NXtZsdii1h4U4oP-OR-375" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;MsoNormal&quot;&gt;Zone0 fault, Zone1, 2 shut down&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Zone1 fault, Zone1, 2 shut down&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Zone2 fault, Zone2 shutdown&lt;/p&gt;" vertex="1">
-          <mxGeometry height="30" width="303" x="355" y="316" as="geometry" />
+          <mxGeometry height="30" width="303" x="-543" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="c1NXtZsdii1h4U4oP-OR-376" edge="1" parent="1" source="c1NXtZsdii1h4U4oP-OR-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;" target="c1NXtZsdii1h4U4oP-OR-375">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="c1NXtZsdii1h4U4oP-OR-379" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PWR_SEQ1_OE" vertex="1">
+          <mxGeometry height="30" width="60" x="-392" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="c1NXtZsdii1h4U4oP-OR-381" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PWR_SEQ4_OE" vertex="1">
+          <mxGeometry height="30" width="60" x="-393" y="984.24" as="geometry" />
+        </mxCell>
+        <mxCell id="c1NXtZsdii1h4U4oP-OR-382" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PWR_SEQ1_FAULT_L" vertex="1">
+          <mxGeometry height="30" width="60" x="365" y="772" as="geometry" />
+        </mxCell>
+        <mxCell id="c1NXtZsdii1h4U4oP-OR-383" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PWR_SEQ4_FAULT_L" vertex="1">
+          <mxGeometry height="30" width="60" x="365" y="990" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
