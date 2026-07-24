@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="第 1 页" id="tmTsu18Bh-iBdeYsC_u4">
-    <mxGraphModel dx="2616" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2752" dy="822" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -325,7 +325,7 @@
         <mxCell id="WXbM_VphunkQ0UaWjHoO-9" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=center;verticalAlign=middle;rounded=0;" value="need place jumper on P5.pin1&amp;amp;2 in CPU board to program FPGA via JTAG&amp;nbsp;" vertex="1">
           <mxGeometry height="72" width="481" x="911" y="1527" as="geometry" />
         </mxCell>
-        <mxCell id="WXbM_VphunkQ0UaWjHoO-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;remove jumper on P5.pin1&amp;amp;2&lt;/div&gt;remove 2X10 JTAG cable, recover MB JTAG cable" vertex="1">
+        <mxCell id="WXbM_VphunkQ0UaWjHoO-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;remove jumper on P5.pin1&amp;amp;2&lt;/div&gt;remove 2X10 JTAG cable and recover MB JTAG cable" vertex="1">
           <mxGeometry height="72" width="481" x="-294" y="296" as="geometry" />
         </mxCell>
       </root>
