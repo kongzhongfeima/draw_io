@@ -39,7 +39,7 @@
             <mxGeometry height="301" width="301" x="389" y="691" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Diag utility&#xa;升级 bhx_top_update_URP_REL.spi" mermaidId="n:E1" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Diag utility&#xa;升级 bhx_top_update_URP_REL.spi" id="AJNh5RUNK792FcJRrvuj-8">
+        <UserObject label="Diag utility&lt;br&gt;升级&amp;nbsp;&amp;nbsp;bhx_top_update_URP_REL.stp" mermaidId="n:E1" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Diag utility&#xa;升级 bhx_top_update_URP_REL.spi" id="AJNh5RUNK792FcJRrvuj-8">
           <mxCell parent="AJNh5RUNK792FcJRrvuj-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="73" width="310" x="30" y="1061" as="geometry" />
           </mxCell>
