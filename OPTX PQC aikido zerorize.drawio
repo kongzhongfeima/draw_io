@@ -69,7 +69,7 @@
             <mxGeometry height="58" width="146" x="344" y="1522" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Step 6&#xa;FlashPro + JTAG 加载 DIP&#xa;bhx_top_DIP_REL_zk.stp" mermaidId="n:H" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Step 6&#xa;FlashPro + JTAG 加载 DIP&#xa;bhx_top_DIP_REL_zk.stp" id="AJNh5RUNK792FcJRrvuj-14">
+        <UserObject label="Step 6&lt;br&gt;FlashPro + JTAG 加载 DIP image&lt;br&gt;bhx_top_DIP_REL_zk.stp" mermaidId="n:H" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Step 6&#xa;FlashPro + JTAG 加载 DIP&#xa;bhx_top_DIP_REL_zk.stp" id="AJNh5RUNK792FcJRrvuj-14">
           <mxCell parent="AJNh5RUNK792FcJRrvuj-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="93" width="238" x="578" y="1522" as="geometry" />
           </mxCell>
