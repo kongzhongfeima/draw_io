@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="第 1 页" id="tmTsu18Bh-iBdeYsC_u4">
-    <mxGraphModel dx="4193" dy="1335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2873" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,8 +308,8 @@
             <mxPoint x="-431.3299999999999" y="1097" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3t98YtNSXEGl0WTKKxsI-6" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1. power off the board&lt;/div&gt;&lt;div&gt;2. use&amp;nbsp;Jumper wire connect SF600/SF100 and P3 header(MISO to MISO)&lt;/div&gt;&lt;div&gt;3. put jumper on P4.pin1 and pin2&lt;/div&gt;&lt;div&gt;4. power on the board, dediprog should detect flash chip&lt;/div&gt;" vertex="1">
-          <mxGeometry height="86" width="365" x="-541" y="1054.5" as="geometry" />
+        <mxCell id="3t98YtNSXEGl0WTKKxsI-6" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1. power off the board&lt;/div&gt;&lt;div&gt;2. use&amp;nbsp;Jumper wire connect SF600/SF100 and P3 header(MISO to MISO)&lt;/div&gt;&lt;div&gt;3. put jumper on P4.pin1 and pin2&lt;/div&gt;&lt;div&gt;4. power on the board, dediprog should detect flash chip, if not, swap the MISO signal and MOSI signal that SF600/SF100 has connected to the P3 header.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="86" width="581" x="-757" y="1054.5" as="geometry" />
         </mxCell>
         <mxCell id="3t98YtNSXEGl0WTKKxsI-7" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=#A50040;fillColor=light-dark(#d60000, #ff90f3);align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="FPGA version still points to V0.13 rather than bundle_aikido_bhx_fpga_fw_files_ver_0.14.bin (Zeroization Aikido Core)" vertex="1">
           <mxGeometry height="76" width="474" x="903" y="1190" as="geometry" />
