@@ -312,6 +312,9 @@
         <mxCell id="3t98YtNSXEGl0WTKKxsI-6" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1. power off the board&lt;/div&gt;&lt;div&gt;2. use&amp;nbsp;Jumper wire connect SF600 and P3 header(MISO to MISO)&lt;/div&gt;&lt;div&gt;3. put jumper on P4.pin1 and pin2&lt;/div&gt;&lt;div&gt;4. power on the board, dediprog should detect flash chip&lt;/div&gt;" vertex="1">
           <mxGeometry height="86" width="365" x="-541" y="1054.5" as="geometry" />
         </mxCell>
+        <mxCell id="3t98YtNSXEGl0WTKKxsI-7" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=#A50040;fillColor=light-dark(#d60000, #ff90f3);align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="FPGA version still points to V0.13 rather than bundle_aikido_bhx_fpga_fw_files_ver_0.14.bin (Zeroization Aikido Core)" vertex="1">
+          <mxGeometry height="76" width="474" x="903" y="1190" as="geometry" />
+        </mxCell>
         <mxCell id="WXbM_VphunkQ0UaWjHoO-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;remove jumper on P5.pin1&amp;amp;2&lt;/div&gt;remove 2X10 JTAG cable and populate MB JTAG cable" vertex="1">
           <mxGeometry height="72" width="481" x="-294" y="296" as="geometry" />
         </mxCell>
