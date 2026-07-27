@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="第 1 页" id="tmTsu18Bh-iBdeYsC_u4">
-    <mxGraphModel dx="6685" dy="2670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4193" dy="1335" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxGeometry height="2960" width="4122.001544641918" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div&gt;prepare image, dongle, jumper, JTAG 2x10 cable.&lt;/div&gt;" mermaidId="n:A" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="准备工作&#xa;确认目标板卡、镜像路径、工具和日志目录" id="AJNh5RUNK792FcJRrvuj-2">
+        <UserObject label="&lt;div&gt;prepare image, jumper wire, SF600/SF100, jumper, JTAG 2x10 cable.&lt;/div&gt;" mermaidId="n:A" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="准备工作&#xa;确认目标板卡、镜像路径、工具和日志目录" id="AJNh5RUNK792FcJRrvuj-2">
           <mxCell parent="AJNh5RUNK792FcJRrvuj-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
             <mxGeometry height="73" width="364" x="174" y="30" as="geometry" />
           </mxCell>
@@ -308,7 +308,7 @@
             <mxPoint x="-431.3299999999999" y="1097" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3t98YtNSXEGl0WTKKxsI-6" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1. power off the board&lt;/div&gt;&lt;div&gt;2. use&amp;nbsp;Jumper wire connect SF600 and P3 header(MISO to MISO)&lt;/div&gt;&lt;div&gt;3. put jumper on P4.pin1 and pin2&lt;/div&gt;&lt;div&gt;4. power on the board, dediprog should detect flash chip&lt;/div&gt;" vertex="1">
+        <mxCell id="3t98YtNSXEGl0WTKKxsI-6" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#5DFFDF;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;1. power off the board&lt;/div&gt;&lt;div&gt;2. use&amp;nbsp;Jumper wire connect SF600/SF100 and P3 header(MISO to MISO)&lt;/div&gt;&lt;div&gt;3. put jumper on P4.pin1 and pin2&lt;/div&gt;&lt;div&gt;4. power on the board, dediprog should detect flash chip&lt;/div&gt;" vertex="1">
           <mxGeometry height="86" width="365" x="-541" y="1054.5" as="geometry" />
         </mxCell>
         <mxCell id="3t98YtNSXEGl0WTKKxsI-7" parent="AJNh5RUNK792FcJRrvuj-1" style="text;html=1;whiteSpace=wrap;strokeColor=#A50040;fillColor=light-dark(#d60000, #ff90f3);align=left;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="FPGA version still points to V0.13 rather than bundle_aikido_bhx_fpga_fw_files_ver_0.14.bin (Zeroization Aikido Core)" vertex="1">
