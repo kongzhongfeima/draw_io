@@ -24,9 +24,9 @@
             <mxGeometry height="73" width="212" x="250" y="296" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="Step 3&lt;br&gt;unit boot up and&lt;br&gt;IOFPGA = 0.13？" mermaidId="n:D" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Step 3&#xa;板卡正常启动且&#xa;IOFPGA = 0.13？" id="AJNh5RUNK792FcJRrvuj-5">
+        <UserObject label="Step 3&lt;br&gt;unit boot up and&lt;br&gt;IOFPGA = 0.13(Dev core)？" mermaidId="n:D" mermaidBaseStyle="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Step 3&#xa;板卡正常启动且&#xa;IOFPGA = 0.13？" id="AJNh5RUNK792FcJRrvuj-5">
           <mxCell parent="AJNh5RUNK792FcJRrvuj-1" style="rhombus;html=1;strokeWidth=1;whiteSpace=wrap;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="203" width="203" x="254" y="419" as="geometry" />
+            <mxGeometry height="203" width="229" x="241.5" y="419" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="stop" mermaidId="n:X" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="停止流程&#xa;检查 JTAG、镜像、供电和启动日志" id="AJNh5RUNK792FcJRrvuj-6">
