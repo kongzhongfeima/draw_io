@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="pN4JVeTZKHKZNRdLbVx1">
-    <mxGraphModel dx="3760" dy="1990" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1990" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2826,37 +2826,37 @@
         </UserObject>
         <UserObject label="Graceful / Error Power-Off Start" mermaidId="n:OFF_START" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Graceful / Error Power-Off Start" id="Fg38nmMEVLj2jw0r4QLv-18">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="292" x="1744" y="1532" as="geometry" />
+            <mxGeometry height="54" width="292" x="1891" y="1462" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Turn OFF P3P3V_PS_OE" mermaidId="n:OFF_3V3" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Turn OFF P3P3V_PS_OE" id="Fg38nmMEVLj2jw0r4QLv-19">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="225" x="1778" y="1636" as="geometry" />
+            <mxGeometry height="54" width="225" x="1925" y="1566" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Wait 5" mermaidId="n:WAIT5" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Wait 5" id="Fg38nmMEVLj2jw0r4QLv-20">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="105" x="1838" y="1740" as="geometry" />
+            <mxGeometry height="54" width="105" x="1985" y="1670" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Turn OFF P5V_PS_OE" mermaidId="n:OFF_5V" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Turn OFF P5V_PS_OE" id="Fg38nmMEVLj2jw0r4QLv-21">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="208" x="1640" y="1844" as="geometry" />
+            <mxGeometry height="54" width="208" x="1787" y="1774" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Turn OFF FPGA_COME_12V_EN" mermaidId="n:OFF_12V" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Turn OFF FPGA_COME_12V_EN" id="Fg38nmMEVLj2jw0r4QLv-22">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="276" x="1898" y="1844" as="geometry" />
+            <mxGeometry height="54" width="276" x="2045" y="1774" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Wait 100 for graceful shutdown&#xa;Wait 10 for error shutdown" mermaidId="n:WAIT_END" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Wait 100 for graceful shutdown&#xa;Wait 10 for error shutdown" id="Fg38nmMEVLj2jw0r4QLv-23">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=#fff4cc;strokeColor=#cc9900;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="73" width="284" x="1748" y="1948" as="geometry" />
+            <mxGeometry height="73" width="284" x="1895" y="1878" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Power-Off Complete" mermaidId="n:DONE" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Power-Off Complete" id="Fg38nmMEVLj2jw0r4QLv-24">
           <mxCell parent="1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=default;strokeColor=default;fontColor=default;fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="206" x="1787" y="2071" as="geometry" />
+            <mxGeometry height="54" width="206" x="1934" y="2001" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" mermaidId="e:OFF_START-&gt;OFF_3V3#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="Fg38nmMEVLj2jw0r4QLv-25">
@@ -2877,7 +2877,7 @@
           <mxCell edge="1" parent="1" source="Fg38nmMEVLj2jw0r4QLv-20" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0;exitY=0.85;entryX=0.5;entryY=0;rounded=0;" target="Fg38nmMEVLj2jw0r4QLv-21">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1744" y="1819" />
+                <mxPoint x="1891" y="1749" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -2886,7 +2886,7 @@
           <mxCell edge="1" parent="1" source="Fg38nmMEVLj2jw0r4QLv-20" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=1;exitY=0.85;entryX=0.5;entryY=0;rounded=0;" target="Fg38nmMEVLj2jw0r4QLv-22">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="2036" y="1819" />
+                <mxPoint x="2183" y="1749" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -2895,7 +2895,7 @@
           <mxCell edge="1" parent="1" source="Fg38nmMEVLj2jw0r4QLv-21" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" target="Fg38nmMEVLj2jw0r4QLv-23">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1744" y="1923" />
+                <mxPoint x="1891" y="1853" />
               </Array>
             </mxGeometry>
           </mxCell>
@@ -2904,7 +2904,7 @@
           <mxCell edge="1" parent="1" source="Fg38nmMEVLj2jw0r4QLv-22" style="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" target="Fg38nmMEVLj2jw0r4QLv-23">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="2036" y="1923" />
+                <mxPoint x="2183" y="1853" />
               </Array>
             </mxGeometry>
           </mxCell>
