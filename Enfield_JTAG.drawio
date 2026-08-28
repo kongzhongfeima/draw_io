@@ -925,19 +925,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCW0HXbs_BFtEpA3VoDI-5" edge="1" parent="1" source="wKT-gXoxUMBaLaZ42zD1-48" style="endArrow=classic;html=1;rounded=0;entryX=-0.045;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.019;exitY=0.709;exitDx=0;exitDy=0;exitPerimeter=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.045;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="6056.71" />
+              <mxPoint x="140" y="6068.67" />
               <mxPoint x="140" y="5967" />
             </Array>
-            <mxPoint x="190" y="5967" as="sourcePoint" />
+            <mxPoint x="-163.32" y="6068.67" as="sourcePoint" />
             <mxPoint x="408" y="5967" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-6" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="JTAG_HDR_BDWL_BUF_TRST_L" vertex="1">
           <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
-            <mxPoint x="166" y="-93" as="offset" />
+            <mxPoint x="174" y="-105" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.014;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
@@ -977,15 +977,20 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCW0HXbs_BFtEpA3VoDI-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.024;entryY=0.791;entryDx=0;entryDy=0;entryPerimeter=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-13" edge="1" parent="1" source="wKT-gXoxUMBaLaZ42zD1-48" style="endArrow=classic;html=1;rounded=0;entryX=-0.024;entryY=0.791;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="220" y="6084.84" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="36.44" y="6017" />
+              <mxPoint x="36.44" y="6084.84" />
+              <mxPoint x="241.78" y="6084.84" />
+            </Array>
+            <mxPoint x="224" y="6046" as="sourcePoint" />
             <mxPoint x="410" y="6085" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-14" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="JTAG_HDR_BDWL_BUF_TMS" vertex="1">
           <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
-            <mxPoint x="19" as="offset" />
+            <mxPoint x="257" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.842;entryDx=0;entryDy=0;entryPerimeter=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
@@ -1061,7 +1066,7 @@
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-31" edge="1" parent="1" source="QCW0HXbs_BFtEpA3VoDI-21" style="endArrow=classic;html=1;rounded=0;exitX=1.024;exitY=0.53;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wKT-gXoxUMBaLaZ42zD1-14" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1060" y="6093.2" />
+              <mxPoint x="1060" y="6026.2" />
               <mxPoint x="1060" y="6552" />
               <mxPoint x="-220" y="6552" />
               <mxPoint x="-220" y="6442" />
@@ -1088,7 +1093,7 @@
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-33" edge="1" parent="1" source="QCW0HXbs_BFtEpA3VoDI-21" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="wKT-gXoxUMBaLaZ42zD1-11" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="6146" />
+              <mxPoint x="880" y="6079" />
               <mxPoint x="880" y="6291" />
             </Array>
             <mxPoint x="688.34" y="6085" as="sourcePoint" />
@@ -1166,16 +1171,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCW0HXbs_BFtEpA3VoDI-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1.002;exitY=0.173;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-47" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points" />
-            <mxPoint x="-164" y="6047.000000000001" as="sourcePoint" />
-            <mxPoint x="-20.072000000000116" y="6047" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130.67" y="6055" />
+            </Array>
+            <mxPoint x="-130.67" y="6068.33" as="sourcePoint" />
+            <mxPoint x="10" y="6055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-48" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BMC TRST" vertex="1">
           <mxGeometry relative="1" x="0.0231" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" value="P5" vertex="1">
