@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="rX6rWxJskL0U42BiYlod">
-    <mxGraphModel dx="3354" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2503" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -930,7 +930,7 @@
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-6" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="JTAG_HDR_BDWL_BUF_TRST_L" vertex="1">
           <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
-            <mxPoint x="218" y="-31" as="offset" />
+            <mxPoint x="166" y="-93" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.014;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" target="wKT-gXoxUMBaLaZ42zD1-12" value="">
