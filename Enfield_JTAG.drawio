@@ -1124,7 +1124,7 @@
             <mxPoint x="-19" y="5759.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QCW0HXbs_BFtEpA3VoDI-55" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-55" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="BMC_CLK" vertex="1">
           <mxGeometry relative="1" x="-0.2722" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
