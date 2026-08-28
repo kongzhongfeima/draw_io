@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="rX6rWxJskL0U42BiYlod">
-    <mxGraphModel dx="2228" dy="1468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1005,6 +1005,53 @@
         </mxCell>
         <mxCell id="QCW0HXbs_BFtEpA3VoDI-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
           <mxGeometry height="30" width="60" x="402" y="5956" as="geometry" />
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AMD_CPU" vertex="1">
+          <mxGeometry height="240" width="110" x="579" y="5774" as="geometry" />
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-22" edge="1" parent="1" source="wKT-gXoxUMBaLaZ42zD1-12" style="endArrow=classic;html=1;rounded=0;exitX=0.967;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" target="QCW0HXbs_BFtEpA3VoDI-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="490" y="5810.36" as="sourcePoint" />
+            <mxPoint x="570" y="5797.12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-23" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CPU TDI" vertex="1">
+          <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.967;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="5850" as="sourcePoint" />
+            <mxPoint x="582" y="5850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-25" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CPU TRST" vertex="1">
+          <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.967;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="5910" as="sourcePoint" />
+            <mxPoint x="582" y="5910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-27" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CPU TCK" vertex="1">
+          <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.967;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.011;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="5970" as="sourcePoint" />
+            <mxPoint x="582" y="5970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QCW0HXbs_BFtEpA3VoDI-29" connectable="0" parent="QCW0HXbs_BFtEpA3VoDI-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CPU TMS" vertex="1">
+          <mxGeometry relative="1" x="-0.1438" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
