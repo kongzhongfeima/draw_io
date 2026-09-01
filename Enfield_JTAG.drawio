@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="rX6rWxJskL0U42BiYlod">
-    <mxGraphModel dx="2730" dy="1545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1189,7 +1189,7 @@
           <mxGeometry height="53.5" width="27" x="-346" y="6108.5" as="geometry" />
         </mxCell>
         <mxCell id="LD2dH0cfpCkshuqt6ecA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="U26 MUX" vertex="1">
-          <mxGeometry height="40" width="80" x="307" y="7060.5" as="geometry" />
+          <mxGeometry height="40" width="80" x="300" y="6824" as="geometry" />
         </mxCell>
         <mxCell id="LD2dH0cfpCkshuqt6ecA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;" value="P19" vertex="1">
           <mxGeometry height="105" width="30" x="-286" y="6939.5" as="geometry" />
@@ -1234,9 +1234,21 @@
             <mxPoint x="-102" y="6832" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LD2dH0cfpCkshuqt6ecA-10" connectable="0" parent="LD2dH0cfpCkshuqt6ecA-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TRST" vertex="1">
+        <mxCell id="LD2dH0cfpCkshuqt6ecA-10" connectable="0" parent="LD2dH0cfpCkshuqt6ecA-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TMS" vertex="1">
           <mxGeometry relative="1" x="-0.0429" y="-3" as="geometry">
             <mxPoint x="55" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD2dH0cfpCkshuqt6ecA-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1.019;exitY=0.093;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-64" y="6834.74" as="sourcePoint" />
+            <mxPoint x="110" y="6834.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LD2dH0cfpCkshuqt6ecA-14" connectable="0" parent="LD2dH0cfpCkshuqt6ecA-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="JTAG_BMC_TMS" vertex="1">
+          <mxGeometry relative="1" x="-0.1687" y="-2" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
