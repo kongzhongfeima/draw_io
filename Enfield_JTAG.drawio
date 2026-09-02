@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="rX6rWxJskL0U42BiYlod">
-    <mxGraphModel dx="2936" dy="1634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3947" dy="2071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1498,7 +1498,7 @@
         </mxCell>
         <mxCell id="oyTX2A8oimpk_GMuC9-x-110" connectable="0" parent="oyTX2A8oimpk_GMuC9-x-109" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;JTAG_MUX_TCK/TMS&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.3785" y="-2" as="geometry">
-            <mxPoint x="428" y="-92" as="offset" />
+            <mxPoint x="476" y="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oyTX2A8oimpk_GMuC9-x-114" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=3;fillColor=#6a00ff;strokeColor=#3700CC;" target="oyTX2A8oimpk_GMuC9-x-108" value="">
@@ -1618,7 +1618,7 @@
         </mxCell>
         <mxCell id="oyTX2A8oimpk_GMuC9-x-133" connectable="0" parent="oyTX2A8oimpk_GMuC9-x-132" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;JTAG_TCK_CPU_FPGA&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.3785" y="-2" as="geometry">
-            <mxPoint x="-195" y="-1" as="offset" />
+            <mxPoint x="-139" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oyTX2A8oimpk_GMuC9-x-134" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="oyTX2A8oimpk_GMuC9-x-104" value="">
@@ -1836,15 +1836,15 @@
             <mxPoint x="754" y="7907.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oyTX2A8oimpk_GMuC9-x-192" edge="1" parent="1" source="oyTX2A8oimpk_GMuC9-x-105" style="endArrow=classic;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;exitX=0.998;exitY=0.916;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="oyTX2A8oimpk_GMuC9-x-192" edge="1" parent="1" source="oyTX2A8oimpk_GMuC9-x-105" style="endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;exitX=0.998;exitY=0.916;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="507.40999999999997" y="7944" as="sourcePoint" />
-            <mxPoint x="689.62" y="7944" as="targetPoint" />
+            <mxPoint x="633.04" y="7944" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oyTX2A8oimpk_GMuC9-x-193" connectable="0" parent="oyTX2A8oimpk_GMuC9-x-192" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="PCH TDO" vertex="1">
           <mxGeometry relative="1" x="0.0797" y="7" as="geometry">
-            <mxPoint x="-23" y="7" as="offset" />
+            <mxPoint x="-5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
