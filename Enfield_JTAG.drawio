@@ -1,6 +1,6 @@
 <mxfile>
   <diagram name="Page-1" id="rX6rWxJskL0U42BiYlod">
-    <mxGraphModel dx="3064" dy="1778" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2730" dy="1545" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1628,11 +1628,11 @@
         </mxCell>
         <mxCell id="oyTX2A8oimpk_GMuC9-x-137" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-23.09000000000001" y="8256.560000000001" as="sourcePoint" />
+            <mxPoint x="-47.04" y="8256.56" as="sourcePoint" />
             <mxPoint x="109.23999999999998" y="8254" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oyTX2A8oimpk_GMuC9-x-138" connectable="0" parent="oyTX2A8oimpk_GMuC9-x-137" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;XDP_CPU_TMS&lt;/span&gt;" vertex="1">
+        <mxCell id="oyTX2A8oimpk_GMuC9-x-138" connectable="0" parent="oyTX2A8oimpk_GMuC9-x-137" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-align: left; white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;XDP_CPU_TMS/RST&lt;/span&gt;" vertex="1">
           <mxGeometry relative="1" x="0.3785" y="-2" as="geometry">
             <mxPoint x="-24" y="-2" as="offset" />
           </mxGeometry>
