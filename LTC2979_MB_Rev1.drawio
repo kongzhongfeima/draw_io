@@ -622,14 +622,11 @@
         <mxCell id="c161" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#182B43;fontSize=18;fontFamily=Arial;align=left;verticalAlign=middle;spacing=10;" value="Source: G300_CPO_EVB_MB_LTC2979_P1_image_Rev1.proj | 0xD5-D8: response; per-page 0xD2/0xD3: propagation; 0xD0[8]: CONTROL select." vertex="1">
           <mxGeometry height="44" width="2310" x="45" y="1930" as="geometry" />
         </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-161" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#182B43;fontSize=34;fontFamily=Arial;align=left;verticalAlign=middle;spacing=10;fontStyle=1;" value="LTC2979 fault sharing - corrected to project Rev1" vertex="1">
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-161" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#182B43;fontSize=34;fontFamily=Arial;align=left;verticalAlign=middle;spacing=10;fontStyle=1;" value="LTC2979 fault sharing - project Rev1" vertex="1">
           <mxGeometry height="52" width="2310" x="2970" y="28" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-162" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=none;fontColor=#182B43;fontSize=22;fontFamily=Arial;align=left;verticalAlign=middle;spacing=10;" value="Response / Propagate values are decoded from the .proj file. Hardware connections follow the supplied figure." vertex="1">
-          <mxGeometry height="48" width="2310" x="2970" y="85" as="geometry" />
-        </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-163" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFF5E6;strokeColor=#ECCB90;fontColor=#182B43;fontSize=22;fontFamily=Arial;align=left;verticalAlign=middle;spacing=10;" value="Orange cells differ from the supplied figure. CONTROL notes describe the current image; wires have not been reassigned." vertex="1">
-          <mxGeometry height="48" width="2310" x="2970" y="136" as="geometry" />
+          <mxGeometry height="48" width="2310" x="2970" y="110" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-164" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#5E9C49;fontColor=#5E9C49;fontSize=21;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="PS_DATAPATH_ZN_FAULT0_L" vertex="1">
           <mxGeometry height="45" width="565" x="2970" y="201" as="geometry" />
