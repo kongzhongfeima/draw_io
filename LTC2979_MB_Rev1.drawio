@@ -1,6 +1,6 @@
 <mxfile>
   <diagram id="fault-sharing" name="Project Rev1 - Fault sharing">
-    <mxGraphModel dx="2254" dy="1016" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="1149" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1401,6 +1401,12 @@
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-648" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;rotation=90;direction=south;" value="" vertex="1">
           <mxGeometry height="46" width="9" x="1468.005" y="2368.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-650" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Heroicons_UI-2892/x-565.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="96" width="96" x="5490" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-651" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Heroicons_UI-2892/x-565.svg;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="96" width="96" x="5553" y="995" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
