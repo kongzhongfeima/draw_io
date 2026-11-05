@@ -790,7 +790,7 @@
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-205" parent="1" style="ellipse;fillColor=#8A7417;strokeColor=#8A7417;" vertex="1">
           <mxGeometry height="8" width="8" x="3411" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-206" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EAF0F7;strokeColor=#8192A6;fontColor=#182B43;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="U1 ADC0_B / 0x5D   |   System Zone-2 + Zone-3 STM" vertex="1">
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-206" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EAF0F7;strokeColor=#8192A6;fontColor=#182B43;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="U1 ADC0_B / 0x5D   |   System Zone-2 + Zone-4 STM" vertex="1">
           <mxGeometry height="45" width="1010" x="3670" y="653" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-207" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#182B43;fontSize=19;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="CONTROL0: datapath&#xa;CONTROL1: STM&#xa;&#xa;CH0-2, CH4-7 use CONTROL0&#xa;CH3 EFUSE: CONTROL NA " vertex="1">
@@ -1070,7 +1070,7 @@
           <mxGeometry height="62" width="272" x="5178" y="1263" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-296" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FAFBFD;strokeColor=#668FCA;fontColor=#668FCA;fontSize=17;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="PS_STM_ZONE FAULT_L" vertex="1">
-          <mxGeometry height="62" width="265" x="5178" y="738" as="geometry" />
+          <mxGeometry height="62" width="265" x="5200" y="744" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-316" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F4F7FA;strokeColor=#CBD5E1;fontColor=#182B43;fontSize=21;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="Hardware fault coupling from reference: Zone-1 LOW can pull datapath FAULT LOW through the fitted diode. Two upper links are marked DNP." vertex="1">
           <mxGeometry height="58" width="2310" x="3000" y="2220" as="geometry" />
