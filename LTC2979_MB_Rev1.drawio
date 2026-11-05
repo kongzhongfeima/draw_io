@@ -1,6 +1,6 @@
 <mxfile>
   <diagram id="fault-sharing" name="Project Rev1 - Fault sharing">
-    <mxGraphModel dx="1777" dy="1149" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
+    <mxGraphModel dx="2267" dy="1209" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,7 +790,7 @@
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-205" parent="1" style="ellipse;fillColor=#8A7417;strokeColor=#8A7417;" vertex="1">
           <mxGeometry height="8" width="8" x="3411" y="444" as="geometry" />
         </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-206" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EAF0F7;strokeColor=#8192A6;fontColor=#182B43;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="U1 ADC0_B / 0x5D   |   System Zone-2 + STM" vertex="1">
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-206" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EAF0F7;strokeColor=#8192A6;fontColor=#182B43;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="U1 ADC0_B / 0x5D   |   System Zone-2 + Zone-3 STM" vertex="1">
           <mxGeometry height="45" width="1010" x="3670" y="653" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-207" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#182B43;fontSize=19;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="CONTROL0: datapath&#xa;CONTROL1: STM&#xa;&#xa;CH0-2, CH4-7 use CONTROL0&#xa;CH3 EFUSE: CONTROL NA " vertex="1">
@@ -877,7 +877,7 @@
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-232" parent="1" style="ellipse;fillColor=#8A7417;strokeColor=#8A7417;" vertex="1">
           <mxGeometry height="8" width="8" x="3411" y="764" as="geometry" />
         </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-233" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EAF0F7;strokeColor=#8192A6;fontColor=#182B43;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="U1 ADC1_A / 0x5E   |   System Zone-0 + other rails" vertex="1">
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-233" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#EAF0F7;strokeColor=#8192A6;fontColor=#182B43;fontSize=24;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="U1 ADC1_A / 0x5E   |   System Zone-0" vertex="1">
           <mxGeometry height="45" width="1010" x="3670" y="973" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-234" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#F8FAFC;strokeColor=#CBD5E1;fontColor=#182B43;fontSize=19;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="CONTROL0: standby gate&#xa;CONTROL1: Zone-1&#xa;&#xa;CH0-5 use CONTROL0&#xa;CH6/7: SPARE / OFF" vertex="1">
