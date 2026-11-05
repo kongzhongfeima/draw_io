@@ -1,6 +1,6 @@
 <mxfile>
   <diagram id="fault-sharing" name="Project Rev1 - Fault sharing">
-    <mxGraphModel dx="1906" dy="1016" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
+    <mxGraphModel dx="2267" dy="1209" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1018,7 +1018,7 @@
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-273" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontColor=#182B43;fontSize=23;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;fontStyle=1;" value="10" vertex="1">
           <mxGeometry height="50" width="120" x="3960" y="1478" as="geometry" />
         </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-274" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;fontSize=17;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="Shutdown CH4,5,6; others Ignore&#xa;0xD7 = 0x07" vertex="1">
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-274" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#B20000;fontColor=light-dark(#000000, #121212);fontSize=17;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="Shutdown CH4,5,6; others Ignore&#xa;0xD7 = 0x07" vertex="1">
           <mxGeometry height="50" width="350" x="4080" y="1478" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-275" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontColor=#182B43;fontSize=18;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="Yes: CH4,5,6&#xa;Others: No" vertex="1">
@@ -1067,7 +1067,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-293" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FAFBFD;strokeColor=#AF2763;fontColor=#AF2763;fontSize=17;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="PS_ZONE1 FAULT_L" vertex="1">
-          <mxGeometry height="62" width="272" x="5196.5" y="1270" as="geometry" />
+          <mxGeometry height="62" width="272" x="5196.5" y="1271" as="geometry" />
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-296" parent="1" style="rounded=0;whiteSpace=wrap;html=0;fillColor=#FAFBFD;strokeColor=#668FCA;fontColor=#668FCA;fontSize=17;fontFamily=Arial;align=center;verticalAlign=middle;spacing=10;" value="PS_STM_ZONE FAULT_L" vertex="1">
           <mxGeometry height="62" width="265" x="5233" y="750" as="geometry" />
