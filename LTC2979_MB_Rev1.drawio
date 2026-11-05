@@ -1,6 +1,6 @@
 <mxfile>
   <diagram id="fault-sharing" name="Project Rev1 - Fault sharing">
-    <mxGraphModel dx="2267" dy="1209" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
+    <mxGraphModel dx="3888" dy="1753" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="1990" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -681,10 +681,9 @@
             <mxPoint x="3670" y="1013" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yrrej-n7aFKoQ0NHLCh1-177" edge="1" parent="1" source="yrrej-n7aFKoQ0NHLCh1-170" style="edgeStyle=none;rounded=0;html=0;strokeColor=#BB5555;strokeWidth=4;startArrow=none;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" x="0.1229" as="geometry">
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-177" edge="1" parent="1" source="yrrej-n7aFKoQ0NHLCh1-652" style="edgeStyle=none;rounded=0;html=0;strokeColor=#BB5555;strokeWidth=4;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" x="0.1102" as="geometry">
             <Array as="points">
-              <mxPoint x="3515" y="1180" />
               <mxPoint x="3515" y="1373" />
             </Array>
             <mxPoint x="3285" y="1180" as="sourcePoint" />
@@ -1407,6 +1406,16 @@
         </mxCell>
         <mxCell id="yrrej-n7aFKoQ0NHLCh1-651" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Heroicons_UI-2892/x-565.svg;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="96" width="96" x="5553" y="995" as="geometry" />
+        </mxCell>
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-653" edge="1" parent="1" source="yrrej-n7aFKoQ0NHLCh1-170" style="edgeStyle=none;rounded=0;html=0;strokeColor=#BB5555;strokeWidth=4;startArrow=none;endArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="yrrej-n7aFKoQ0NHLCh1-652" value="">
+          <mxGeometry relative="1" x="0.1229" as="geometry">
+            <Array as="points" />
+            <mxPoint x="3157" y="1180" as="sourcePoint" />
+            <mxPoint x="3670" y="1373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yrrej-n7aFKoQ0NHLCh1-652" parent="1" style="ellipse;fillColor=#AF2763;strokeColor=#AF2763;" vertex="1">
+          <mxGeometry height="8" width="8" x="3511" y="1176" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
